@@ -1,7 +1,0 @@
-
-Celeste Fischer
-The data analysis results have been saved in the file: encounters.txt
-Here are the metrics for the percent of encounters with response times under 2 hours, categorized by encounter types:
-76.92% of nurse triage encounters had response times under 2 hours. 
-93.33% of telephone encounters had response times under 2 hours. 
-86.21% of all encounters had response times under 2 hours. 
