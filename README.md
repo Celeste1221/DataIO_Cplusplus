@@ -1,7 +1,7 @@
 # DataIO_C++
 
 Data analysis with C++   
-Sometimes patient phone calls require a quick response from the clinical care team, such as patients with active symptoms. These calls are usually categorized as needing triage. Other calls can have more leeway in the response time, such as patients requesting refills or lab results. This program simulates analysis of call response times in an outpatient medical setting. It separates calls or 'encounters' by type and then analyzes the amount of time between the initial patient contact and the clinical staff's response. 
+Sometimes patient phone calls require a quick response from the clinical care team, such as when patients are currently experiencing symptoms. These calls are usually categorized as calls needing triage. Other calls can have more leeway in the response time, such as patients requesting refills or lab results. This program simulates analysis of call response times in an outpatient medical setting. It distinguishes calls or 'encounters' by type and then analyzes the amount of time between the initial patient contact and the clinical staff's response. 
 
 ## Preprocessor directives
 ```  
